@@ -16,3 +16,4 @@ function main() {
         alert("Keine gültige Ampel-Farbe eingetragen")
     }
 }
+ console.log("Hallo Welt")
